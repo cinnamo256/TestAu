@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/oauth/callback",
+      "dest": "/api/oauth.js"
+    }
+  ]
+}
